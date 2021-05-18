@@ -7,5 +7,4 @@ This app is a CMS-style blog site.  This site facilitates the publishing of blog
 [Link to GITHUB Project](https://github.com/dtnewby/Tech_Blog)
 
 # URL of Deployed Application in Heroku
-[Link to Deployed Application in Heroku](N/A)
-I was unable to deploy this application to Heroku.  Heroku create kept freezing at the credential entry stage.  I was never presented with an opportunity to enter my credentials.  Instead, it froze up before that point.
+[Link to Deployed Application in Heroku](https://agile-headland-08339.herokuapp.com/)
